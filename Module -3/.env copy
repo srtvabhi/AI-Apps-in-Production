@@ -1,0 +1,4 @@
+AZURE_OPENAI_ENDPOINT=https://xxxxxxxxxxxxxx.openai.azure.com/
+AZURE_OPENAI_KEY=xxxxxxxxxxxxxxxxxxxx
+AZURE_OPENAI_API_VERSION=2024-02-15-preview
+AZURE_OPENAI_DEPLOYMENT=gpt-5-mini
